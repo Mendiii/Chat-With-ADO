@@ -1,0 +1,51 @@
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\bin\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\bin\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ProductManagment.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ProductManagment.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\ProductManagment.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\localDB.mdf
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Debug\localDB_log.ldf
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\localDB.mdf
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\localDB_log.ldf
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\ProductManagment.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\bin\Debug\ProductManagment.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\obj\Debug\ServerBL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\obj\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ServerBL\obj\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\localDB.mdf
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\localDB_log.ldf
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\ServerBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\ProductManagment.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Debug\ProductManagment.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Debug\ServerBL.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Debug\ServerBL.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Debug\ServerBL.csproj.CopyComplete
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Debug\ServerBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Debug\ServerBL.pdb

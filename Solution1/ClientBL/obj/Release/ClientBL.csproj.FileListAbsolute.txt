@@ -1,0 +1,23 @@
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\bin\Release\ClientBL.dll
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\bin\Release\ClientBL.pdb
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\bin\Release\CommonTypes.dll
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\bin\Release\CommonTypes.pdb
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\obj\Release\ClientBL.csprojResolveAssemblyReference.cache
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\obj\Release\ClientBL.dll
+C:\Users\m\Desktop\chatProject\Solution1\ClientBL\obj\Release\ClientBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\bin\Release\ClientBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\bin\Release\ClientBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\obj\Release\ClientBL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\obj\Release\ClientBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientBL\obj\Release\ClientBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\bin\Release\ClientBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\bin\Release\ClientBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\obj\Release\ClientBL.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\obj\Release\ClientBL.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\obj\Release\ClientBL.csproj.CopyComplete
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\obj\Release\ClientBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientBL\obj\Release\ClientBL.pdb

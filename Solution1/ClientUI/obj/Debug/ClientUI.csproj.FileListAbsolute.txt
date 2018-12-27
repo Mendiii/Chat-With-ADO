@@ -1,0 +1,106 @@
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\m\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\m\Desktop\פרוייקטים\פרויקטים\3_chat\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\with internal DB\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\with external DB\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\ClientUI.exe
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\ClientUI.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\ClientBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\ClientBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ClientUI\obj\Debug\ClientUI.csproj.CopyComplete

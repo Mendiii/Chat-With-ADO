@@ -1,0 +1,4 @@
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\bin\Debug\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\bin\Debug\ProductManagment.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\obj\Debug\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\obj\Debug\ProductManagment.pdb

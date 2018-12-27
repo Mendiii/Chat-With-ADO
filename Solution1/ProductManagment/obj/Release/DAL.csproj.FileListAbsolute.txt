@@ -1,0 +1,18 @@
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\bin\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\bin\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\obj\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ProductManagment\obj\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\bin\Release\localDB.mdf
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\bin\Release\localDB_log.ldf
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\bin\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\bin\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\obj\Release\DAL.csproj.CopyComplete
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\obj\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ProductManagment\obj\Release\ProductManagment.pdb

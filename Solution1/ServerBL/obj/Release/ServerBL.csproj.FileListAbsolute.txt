@@ -1,0 +1,22 @@
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Release\ServerBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Release\ServerBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\bin\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Release\ServerBL.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Release\ServerBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerBL\obj\Release\ServerBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\localDB.mdf
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\localDB_log.ldf
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\ServerBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\ServerBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\bin\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Release\ServerBL.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Release\ServerBL.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Release\ServerBL.csproj.CopyComplete
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Release\ServerBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerBL\obj\Release\ServerBL.pdb

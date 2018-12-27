@@ -1,0 +1,31 @@
+C:\Users\m\Desktop\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\m\Desktop\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\m\Desktop\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\m\Desktop\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\m\Desktop\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\ToDelete\with internal DB\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\with internal DB\Solution1\CommonTypes\obj\Debug\CommonTypes.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\with internal DB\Solution1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\with internal DB\Solution1\CommonTypes\obj\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Debug\CommonTypes.pdb

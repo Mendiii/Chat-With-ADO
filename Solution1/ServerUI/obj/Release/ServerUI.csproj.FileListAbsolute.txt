@@ -1,0 +1,32 @@
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ServerUI.exe.config
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ServerUI.exe
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ServerUI.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ServerBL.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ServerBL.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\bin\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\obj\Release\ServerUI.csprojResolveAssemblyReference.cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\obj\Release\ServerUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\obj\Release\ServerUI.ServerForm.resources
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\obj\Release\ServerUI.csproj.GenerateResource.Cache
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\obj\Release\ServerUI.exe
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\ServerUI\obj\Release\ServerUI.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ServerUI.exe.config
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ServerUI.exe
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ServerUI.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ServerBL.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ProductManagment.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ServerBL.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\bin\Release\ProductManagment.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.Properties.Resources.resources
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.ServerForm.resources
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.csproj.GenerateResource.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.csproj.CopyComplete
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.exe
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\ServerUI\obj\Release\ServerUI.pdb

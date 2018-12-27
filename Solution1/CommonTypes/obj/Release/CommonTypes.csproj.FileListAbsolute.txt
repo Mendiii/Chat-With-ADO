@@ -1,0 +1,9 @@
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\ChatWithADO.NET\chatProject\Solution1\CommonTypes\obj\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\bin\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\bin\Release\CommonTypes.pdb
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Release\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Release\CommonTypes.dll
+C:\Users\MTNO\Desktop\Chat With ADO\Solution1\CommonTypes\obj\Release\CommonTypes.pdb
